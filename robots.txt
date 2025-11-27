@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://craftico.com/sitemap.xml
+
+# Disallow admin and private areas (if any in future)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow CSS and JS
+Allow: /css/
+Allow: /js/
+Allow: /img/
